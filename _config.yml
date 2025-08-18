@@ -1,3 +1,6 @@
 title: Mein Blog
 description: Ein simpler statischer Blog
 theme: minima
+
+markdown: kramdown
+permalink: /:year/:title:output_ext

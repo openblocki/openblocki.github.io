@@ -1,5 +1,7 @@
 ---
 layout: post
-title: "Test Beitrag"
+title: "First Entry"
 ---
-Blogpost tets
+This is the First entry of my Blogposts, trying to build up a Dev Portfolio.
+Will switch to Self Written HTML JS Blog though, because i don't like how Jekyll looks and works.
+

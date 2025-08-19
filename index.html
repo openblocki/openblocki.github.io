@@ -1,20 +1,23 @@
----
-layout: default
----
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<!DOCTYPE html>
+<link src="/style.css" rel="stylesheet" /> 
+<html lang="en">
+    <div>
+        <div class="header">
+            <head>
+                <link rel="stylesheet" type="text/css" href="style.css" /> 
+                <span class="purple-wordart-wrapper">
+	                <span class="purple-wordart title-text">Welcome to Openblocki's Den</span>
+                </span>
+            </head>
+        </div>
+        <body class="body">
+            <main>
+                <div class="menu"></div>
+                <div class="blog"></div>
+            </main>
+            <footer class="footer">
+                <p cass="footer-text">© 2025 Openblocki. All rights reserved.</p>
+            </footer>
+        </body>
+    </div>
+</html>

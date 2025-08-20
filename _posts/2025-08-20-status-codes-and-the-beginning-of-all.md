@@ -98,7 +98,7 @@ It was primarily used as a connection between universities, research institution
 Today was rather Informational than just random stuff and progress thrown together, but it was fun to reserch these things, hope you liked it anyway. 
 
 ## Got some Video Recommendations for you
-> ["Ok, but What Are The Other 403 Errors?"](https://youtu.be/aqsEa1P8iPQ?si=hZmjzuXMg6T2HcN9) by vlogbrothers [5:05]
+> ["Ok, but What Are The Other 403 Errors?"](https://youtu.be/aqsEa1P8iPQ?si=hZmjzuXMg6T2HcN9) by vlogbrothers [5:05] <br>
 > ["no one knows who created skull trumpet (until now)"](https://youtu.be/ZYcHOEjGzPA?si=qr3VyG4bGG6JzRTW) by Jeffiot [42:26]
 
 ### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/14)]

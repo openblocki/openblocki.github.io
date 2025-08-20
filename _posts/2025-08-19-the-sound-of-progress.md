@@ -8,9 +8,9 @@ tags: Blog-Changes JavaScript HTML CSS
 ## Blog Design
 First Things First i finally have some Sneak Peeks for the Plans of the Blog / Site Design, which will be heavily
 oriented on Websites from the 90s like you can see on [GeoCities](https://geocities.live/).
-Here, have a look at the Title and Footer :smile:
-![Cool Header](../images/post_3/title.png)
-![Cool Footer](../images/post_3/footer.png)
+Here, have a look at the Title and Footer :smile: <br>
+![Cool Header](../images/post_3/title.png) <br>
+![Cool Footer](../images/post_3/footer.png) <br>
 Coolest shit you'll ever see. 
 
 ## Dynamic Images make Life worth Living
@@ -41,4 +41,4 @@ As mentioned in the last Post, I want to implement a Page for Updates of Progres
 Of course this is just Super Rudimentary but im gonna find a way to use this.
 That's all from me for now. Kisses
 
-###### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/8)]
+### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/8)]

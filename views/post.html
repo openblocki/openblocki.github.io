@@ -5,11 +5,16 @@
     <title>Post</title>
     <link rel="stylesheet" href="../style.css">
     <script type="module" src="../js/services/postService.js"></script>
+    <div id="navbar-container"></div>
+    <script>
+        fetch('/components/navbar.html')
+            .then(res => res.text())
+            .then(html => document.getElementById('navbar-container').innerHTML = html);
+    </script>
 </head>
 <body>
     <main>
-        <h1>Post OOOO</h1>
-        <div id="post-content">
+        <div id="post-content" class="post">
         
         </div>
     </main>

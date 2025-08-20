@@ -1,7 +1,7 @@
 import { PostMeta } from "../models/post_data.js";
 import { Octokit } from "https://esm.sh/@octokit/rest";
-
 const octokit = new Octokit(); 
+
 const postBody = document.getElementById("post-content");
 
 async function getPost(owner, repo, branch,id, directory = "posts") {
@@ -30,7 +30,6 @@ async function renderPost() {
     const postId = params.get("id");
     const post = await getPost("openblocki", "openblocki.github.io", "blogPosts", postId ,"posts");
     postBody.innerHTML = post;
-    console.log("Post content fetched:", post);
 
 }
 

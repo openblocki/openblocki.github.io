@@ -26,6 +26,6 @@ To Summarize the Planned Blog changes:
 > - A Page for some show and tell off Games i Play (Mainly GT:NH and other Minecraft Stuff, Vanilla and Modded) (Did not talk about this)
 > - A Page to show the Suggestions Issue (Did not talk about this)
 
-[[Here is the Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/3)]
+### [[Here is the Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/3)]
 
 > Getting Git to sign my Commits on this Laptop is Hella Ass, so ill wait with the Update until im at my main PC

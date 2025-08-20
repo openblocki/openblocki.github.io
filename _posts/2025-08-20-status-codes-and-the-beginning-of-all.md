@@ -101,6 +101,9 @@ Today was rather Informational than just random stuff and progress thrown togeth
 > ["Ok, but What Are The Other 403 Errors?"](https://youtu.be/aqsEa1P8iPQ?si=hZmjzuXMg6T2HcN9) by vlogbrothers [5:05]
 > ["no one knows who created skull trumpet (until now)"](https://youtu.be/ZYcHOEjGzPA?si=qr3VyG4bGG6JzRTW) by Jeffiot [42:26]
 
+### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/14)]
+
+
 **Sources:**
  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
  - [MDN ARPANET](https://developer.mozilla.org/en-US/docs/Glossary/Arpanet)

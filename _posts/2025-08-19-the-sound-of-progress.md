@@ -41,4 +41,4 @@ As mentioned in the last Post, I want to implement a Page for Updates of Progres
 Of course this is just Super Rudimentary but im gonna find a way to use this.
 That's all from me for now. Kisses
 
-###### [[Comment Issue for this Post]()]
+###### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/8)]

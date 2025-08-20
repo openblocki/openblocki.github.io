@@ -90,7 +90,7 @@ Basically the Server saying: "I'm the Problem and i don't want to elaborate furt
 Damn,... that was a lot. Anyways let's continue.
 
 ## The First Internet
-The First Internet, mainly being ARPANET, is considered the precursor to the modern intenet beeing one of the firsts to use packet switching => ```breaking down packages into smaller pieces to be reconstructed at the receivers end```, which was a majoin innovation to the earlier circuit-switched networks.
+The First Internet, mainly being ARPANET, is considered the precursor to the modern intenet beeing one of the firsts to use packet switching => ```breaking down packages into smaller pieces to be reconstructed at the receivers end```, which was a major innovation to the earlier circuit-switched networks.
 The first message on ARPANET was just "Lo", it was supposed to be login, but the system crashed. 
 It was primarily used as a connection between universities, research institutions and government facilities to make coorporating researches possible and improve academic processes. It was used to log into computers remotely and use the servers on that computers side.
 
@@ -100,6 +100,9 @@ Today was rather Informational than just random stuff and progress thrown togeth
 ## Got some Video Recommendations for you
 > ["Ok, but What Are The Other 403 Errors?"](https://youtu.be/aqsEa1P8iPQ?si=hZmjzuXMg6T2HcN9) by vlogbrothers [5:05]
 > ["no one knows who created skull trumpet (until now)"](https://youtu.be/ZYcHOEjGzPA?si=qr3VyG4bGG6JzRTW) by Jeffiot [42:26]
+
+###### [[Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/14)]
+
 
 **Sources:**
  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)

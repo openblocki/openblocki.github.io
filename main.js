@@ -15,7 +15,7 @@ const octokit = new Octokit();
 async function getPostMetadata() {
     const postMeta = await getAllPostMetadata(owner, repo, branch_posts, directory_posts_data);
     console.log("Post metadata fetched:", postMeta);
-    return postMeta.map(post => `${post.id}.html`);
+    return postMeta;
 }
 
 const posts = await getPostMetadata().catch(error => {
@@ -26,7 +26,7 @@ async function renderFileList() {
     files.forEach(file => {
         const li = document.createElement("li");
         const a = document.createElement("a");
-        a.href = `posts/${file.releaseDate.Year}/${file.id}`;
+        a.href = `views/post.html?id=${file.id}`;
         a.textContent = file.title;
         li.appendChild(a);
         list.appendChild(li);

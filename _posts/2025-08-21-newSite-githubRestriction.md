@@ -18,4 +18,4 @@ Also, i have no idea what's up with the Footer. Gotta live with that until the s
 
 That's all folks
 
-###[[Here is the Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/16)]
+### [[Here is the Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/16)]

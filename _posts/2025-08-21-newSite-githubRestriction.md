@@ -14,4 +14,6 @@ As some may know, i plan on using GitHub branches as a Database to Store Posts, 
 ## The new Site
 It's Up!!! Well, not actually, it was up but i had to revert it to jekyll because of the rate limit. But during the Time it was up, it looked awesome. I would show some Pictures but i'm to lazy to make one right now :3.
 
+Also, i have no idea what's up with the Footer. Gotta live with that until the site migration
+
 That's all folk, Comment Issue will follow later

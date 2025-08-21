@@ -16,4 +16,6 @@ It's Up!!! Well, not actually, it was up but i had to revert it to jekyll becaus
 
 Also, i have no idea what's up with the Footer. Gotta live with that until the site migration
 
-That's all folk, Comment Issue will follow later
+That's all folks
+
+###[[Here is the Comment Issue for this Post](https://github.com/openblocki/openblocki.github.io/issues/16)]

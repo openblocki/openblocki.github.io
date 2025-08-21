@@ -3,6 +3,7 @@ layout: post
 title: "#1 What's this about"
 date: 2025-08-18 00:00:02
 tags: Markdown Blog-Changes
+categories: Markdown Blog-Changes
 ---
 
 ## First Order of the Day: Learning about Markdown

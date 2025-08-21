@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<link src="./style.css" rel="stylesheet" /> 
+<span class="purple-wordart-wrapper">
+	<span class="purple-wordart title-text">Welcome to Openblocki's Den</span>
+</span>
 
 <div class="home">
 
@@ -18,3 +22,39 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<footer class="footer">
+  <p cass="footer-text">© 2025 Openblocki. All rights reserved.</p>
+</footer>
+
+<style>
+  .purple-wordart-wrapper {
+	filter: drop-shadow(2px 2px 0px rgba(15, 121, 15, 0.8));
+    transform: scaleY(1.0) scaleX(0.8); 
+    background-color: #001d3d;
+    padding: 10px;
+} 
+
+.purple-wordart {
+    background: linear-gradient(183deg, #00ff40 10%, #2ca507 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+    font-family: 'Impact';
+}
+
+
+
+footer {
+  background-color: #4d0f1b;
+  padding: 10px;
+  color: #fff;
+
+  background-image: url("./images/homepage/flames.gif");
+  background-repeat: repeat-x;
+  background-size: auto 40%;   
+  background-position: bottom center; 
+}
+
+</style>

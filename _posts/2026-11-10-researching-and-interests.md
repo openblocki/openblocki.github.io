@@ -127,11 +127,11 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
 <h2>Additional Notes</h2>
 <p>Kinda liking the Plain HTML look</p>
 
-<img src="../images/post_7/plain-html.png" alt=""> <br/>
-
+<img src="../images/post_7/plain-html.png" alt="" /> <br/>
 
 
 ### As Always: Thanks for Reading
+
 
 <details>
     <summary>Disclaimer</summary>

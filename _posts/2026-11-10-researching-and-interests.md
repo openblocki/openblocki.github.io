@@ -3,8 +3,7 @@ layout: post
 title: Researching and Following Interests
 tags: Interests HTML Research
 categories: Interests Knowledge
-website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://deepmind.google/
-https://blog.codinghorror.com/
+website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://deepmind.google/ https://blog.codinghorror.com/
 ---
 
 

@@ -136,4 +136,5 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
 </details>
 
 
-### As Always: Thanks for Reading
+<h1> As Always: Thanks for Reading</h1>
+ 

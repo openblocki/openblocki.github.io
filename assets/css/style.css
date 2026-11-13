@@ -1,0 +1,18 @@
+footer {
+    position:absolute;
+    width:100%;
+    bottom: 0;
+}
+
+div {
+    font-family: Arial, sans-serif;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footd {
+    background-color: lightgray;
+}

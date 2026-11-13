@@ -6,7 +6,6 @@ categories: Interests Knowledge
 website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://deepmind.google/ https://blog.codinghorror.com/
 ---
 
-
 <style>
     .Prod {
         border: 5px outset red;
@@ -130,9 +129,6 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
 <img src="../images/post_7/plain-html.png" alt="" /> <br/>
 
 
-### As Always: Thanks for Reading
-
-
 <details>
     <summary>Disclaimer</summary>
     <p>Any and every piece of Text or Code, unless specified otherwise is 100% written and tought of by a Human.
@@ -140,3 +136,4 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
 </details>
 
 
+### As Always: Thanks for Reading

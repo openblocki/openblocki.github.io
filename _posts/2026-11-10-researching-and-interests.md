@@ -25,8 +25,9 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
     <div class="footd">
         <h1>First Order of the Day: Following your Brain</h1>
         <p>Some People say to follow your Heart. I like to follow my Brain. </p>
-        <p>Ok, that may sound like im making fun of them hear me out though. I like Nourishing my Brain, learning new Things, expanding the Knowledge on things that Interest me, and thus is everso rarely go on google
-        and look up Names of People in the Computer Science / Software Development Areas</p>
+        <p>Ok, that may sound like im making fun of them hear me out though. I like Nourishing my Brain, learning new
+            Things, expanding the Knowledge on things that Interest me, and thus is everso rarely go on google
+            and look up Names of People in the Computer Science / Software Development Areas</p>
     </div>
 
     <div>
@@ -92,10 +93,11 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
     <h2>Personal Interests: Emulation, Reverse Engineering and Piracy</h2>
     <p>For a few years now i've taken Interesst in Emulation, Reverse Engineering and Piracy. Alone the abiity to run
         Software on PC or other Consoles, even though it is not made to run on them is just spectacular for me.</p>
+
     <p>And with AI beeing on its Absolute high in Development right now, recompilation has become a thing People take
         into consideration, since Modern Console are no longer built for the Job but just fancy Slimmed down Computers
         with Semi-Custom Operating Systems, relinking is as easy as ever, Relatively Speaking. I'm looking at 2 Projects
-        Specifically <a href="">AnyPS5</p> and <a href="https://github.com/zortos293/Lichii/tree/nx2">Lichii</a>.
+        Specifically <a href="">AnyPS5</a> and <a href="https://github.com/zortos293/Lichii/tree/nx2">Lichii</a>.
 
 
     <h3>AnyPS5</h3>
@@ -110,7 +112,6 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
     <h3>Lichii</h3>
     <p>Since it's Announcement, People thought the Switch 2 was uncrackable. The long Streak of Nintendo Console
         Emulation has ended and thats's it. </p>
-    </br>
     <p>And then a Wonder is brought into this World</p>
     <p>Eden-NX2, the first ever NS2 Emulator was released on Github and it was amazing</p>
     <p>But personally im more interested in Lichii and Fritchii. Lichii is Multi-Platform fork of Eden-NX2, but the most
@@ -123,12 +124,11 @@ website-sugestions: https://kriha.de/ https://github.com/jplag/JPlag https://dee
     <h2>Additional Notes</h2>
     <h3>Plain HTML</h3>
     <p>Kinda liking the Plain HTML look</p>
-    <img src="../images/post_7/plain-html.png" alt="Blog as Plain HTML">
+    ![Plain HTML](../images/post_7/plain-html.png)
 
     <details>
         <summary>Disclaimer</summary>
         <p>Any and every piece of Text or Code, unless specified otherwise is 100% written and tought of by a Human.
-            </br>
             Sad that that has to be specified</p>
     </details>
 
